@@ -1,0 +1,8 @@
+{
+  "play.chat": "{lightpurple}[RSS] {orange}==> {yellow}Play Play Play ! {orange}<==",
+  "pickupyourweaponandfight.chat": "{lightpurple}[RSS] {orange}==> {yellow}Pickup Your Weapons And Fight ! {orange}<==",
+  "prepareforbattle.chat": "{lightpurple}[RSS] {orange}==> {yellow}Prepare For Battle ! {orange}<==",
+  "prepareforfight.chat": "{lightpurple}[RSS] {orange}==> {yellow}Prepare For Fight ! {orange}<==",
+
+  "round.will.start.chat": "{lightpurple}[RSS] {orange}==> {yellow}Round Will Start In {lime}{SECONDS_REMAINING}{yellow}s {orange}<=="
+}

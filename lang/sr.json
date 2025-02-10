@@ -1,0 +1,8 @@
+{
+  "play.chat": "{lightpurple}[RSS] {orange}==> {yellow}Igraj Igraj Igraj ! {orange}<==",
+  "pickupyourweaponandfight.chat": "{lightpurple}[RSS] {orange}==> {yellow}Uzmi Oruzje I Bori Se ! {orange}<==",
+  "prepareforbattle.chat": "{lightpurple}[RSS] {orange}==> {yellow}Pripremi Se Za Bitku ! {orange}<==",
+  "prepareforfight.chat": "{lightpurple}[RSS] {orange}==> {yellow}Pripremi Se Za Borbu ! {orange}<==",
+
+  "round.will.start.chat": "{lightpurple}[RSS] {orange}==> {yellow}Runda Ce Poceti Za {lime}{SECONDS_REMAINING}{yellow}s {orange}<=="
+}
