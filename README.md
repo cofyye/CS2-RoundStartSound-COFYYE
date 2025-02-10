@@ -2,6 +2,11 @@
 
 **RoundStartSound** is a simple yet fun plugin designed to enhance the experience of any game by playing sound effects when a round starts. Whether it's an epic "Prepare to Battle!" announcement or a countdown from 5 to 1, this plugin adds a layer of excitement to every new round.
 
+## See it in action
+You can check out the plugin live on my server:  
+**IP**: 5.180.82.79:27015  
+Join and experience this plugin, along with all the other custom plugins I create for a unique gameplay experience.
+
 ## Features
 
 - Plays a customizable sound effect at the start of each round.
@@ -91,3 +96,39 @@ Below is a step-by-step guide explaining the available configuration options for
 8. **`female_countdowns`**  
    - **Type**: Array of strings  
    - **Description**: Specifies the file paths for the female countdown sound effects.
+  
+### Installation
+
+1. Download the **[RoundStartSound v1.0](https://github.com/cofyye/CS2-MapCycleAndChooser-COFYYE/releases/download/1.0/RoundStartSound-COFYYE-v1.0.zip)** plugin as a `.zip` file.  
+2. Upload the contents of the `.zip` file into the following directory on your server:  
+   > game/csgo/addons/counterstrikesharp/plugins  
+3. After uploading, change the map or restart your server to activate the plugin.  
+4. The configuration file will be generated at:  
+   > game/csgo/addons/counterstrikesharp/configs/plugins/RoundStartSound-COFYYE/RoundStartSound-COFYYE.json  
+   Adjust all settings in this file as needed.
+
+### Language Support
+The language files are located in the following directory:
+> game/csgo/addons/counterstrikesharp/plugins/RoundStartSound-COFYYE/lang
+
+Currently, there are two language files:
+- `en.json` (English)
+- `sr.json` (Serbian)
+
+## Bug Reports & Suggestions
+
+If you encounter any bugs or issues while using the plugin, please report them on the [GitHub Issues page](https://github.com/cofyye/CS2-RoundStartSound-COFYYE/issues). Provide a detailed description of the problem, and I will work on resolving it as soon as possible.
+
+Feel free to submit any suggestions for improvements or new features you'd like to see in future releases. Your feedback is highly appreciated!
+
+## Important Notes
+
+- Currently, the plugin supports only chat-based messages. HUD support will be available soon with the release of the new menu system, similar to the one used in CS:GO.
+
+## Donation
+
+If you would like to support me and help maintain and improve this plugin, you can donate via PayPal:
+
+[Donate on PayPal](https://paypal.me/cofyye)
+
+Your support is greatly appreciated!
