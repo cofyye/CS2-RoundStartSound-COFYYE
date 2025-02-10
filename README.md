@@ -99,7 +99,7 @@ Below is a step-by-step guide explaining the available configuration options for
   
 ### Installation
 
-1. Download the **[RoundStartSound v1.0](https://github.com/cofyye/CS2-MapCycleAndChooser-COFYYE/releases/download/1.0/RoundStartSound-COFYYE-v1.0.zip)** plugin as a `.zip` file.  
+1. Download the **[RoundStartSound v1.0](https://github.com/cofyye/CS2-RoundStartSound-COFYYE/releases/download/1.0/RoundStartSound-COFYYE-v1.0.zip)** plugin as a `.zip` file.  
 2. Upload the contents of the `.zip` file into the following directory on your server:  
    > game/csgo/addons/counterstrikesharp/plugins  
 3. After uploading, change the map or restart your server to activate the plugin.  
