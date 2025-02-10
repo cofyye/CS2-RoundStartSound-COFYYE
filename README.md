@@ -7,6 +7,9 @@ You can check out the plugin live on my server:
 **IP**: 5.180.82.79:27015  
 Join and experience this plugin, along with all the other custom plugins I create for a unique gameplay experience.
 
+## Video
+[![Watch the video](https://img.youtube.com/vi/TFZpmAhIr_w/0.jpg)](https://www.youtube.com/watch?v=TFZpmAhIr_w)
+
 ## Features
 
 - Plays a customizable sound effect at the start of each round.
